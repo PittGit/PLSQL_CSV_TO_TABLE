@@ -3,6 +3,9 @@ CREATE A TABLE DYNAMICALLY FROM AN EXTERNAL FILE
 
 This is a PL/SQL code, to create a table Dinamycally in a Oracle DB.
 
+Copyright (c) 2020 Pedro Alvarez Barbero 
+linkedin: https://www.linkedin.com/in/pedro-alvarez-barbero/
+
 #Pre-requisites.
 
 You need to upload the .csv file into an auxiliar table with format Data CLOB, Numrow Number(10).
